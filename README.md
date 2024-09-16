@@ -62,7 +62,7 @@ With **6+ years of experience** in mobile and web development, I specialize in *
 ## 💼 Professional Experience
 
 **byPeople Technologies (Flutter Developer)**  
-Jan 2023 - Present | Ahmedabad, India  
+Jan 2023 - Oct 2024 | Ahmedabad, India  
 - Led the development and maintenance of Flutter applications using Cloud Firestore, Firebase, and Dart.
 
 **Android Developer**  

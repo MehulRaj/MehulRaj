@@ -76,7 +76,7 @@ Jan 2019 - Present | Ahmedabad, India
 ---
 
 ## 🚀 Featured Projects
-- **[Go Green 🌿](https://github.com/MehulRaj/go-green)** - An eco-friendly e-commerce platform built with Flutter. [Read more](https://github.com/MehulRaj/go-green)
+- **[Go Green 🌿](https://github.com/MehulRaj/GoGreen)** - An eco-friendly e-commerce platform built with Flutter. [Read more](https://github.com/MehulRaj/GoGreen)
 
 ---
 

@@ -66,11 +66,11 @@ Jan 2023 - Oct 2024 | Ahmedabad, India
 - Led the development and maintenance of Flutter applications using Cloud Firestore, Firebase, and Dart.
 
 **Android Developer**  
-Mar 2019 - Present | Ahmedabad, India  
+Mar 2019 - Oct 2024 | Ahmedabad, India  
 - Worked on Android application development with high-quality code following best practices.
 
 **React Native Developer**  
-Jan 2019 - Present | Ahmedabad, India  
+Jan 2019 - Oct 2024 | Ahmedabad, India  
 - Developed React Native applications focused on REST API integration and cross-platform performance.
 
 ---

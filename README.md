@@ -1,4 +1,4 @@
-# Mehul Raj 🌱
+# Mehul Raj
 ### Senior Software Developer
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=MehulRaj&color=blue)
